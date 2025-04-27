@@ -1,0 +1,6 @@
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\MPP\Laborator\Agentie_turism_csharp\client_bun\obj\Debug\net9.0-windows\client_bun.csproj.AssemblyReference.cache
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\MPP\Laborator\Agentie_turism_csharp\client_bun\obj\Debug\net9.0-windows\client_bun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\MPP\Laborator\Agentie_turism_csharp\client_bun\obj\Debug\net9.0-windows\client_bun.AssemblyInfoInputs.cache
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\MPP\Laborator\Agentie_turism_csharp\client_bun\obj\Debug\net9.0-windows\client_bun.AssemblyInfo.cs
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\MPP\Laborator\Agentie_turism_csharp\client_bun\obj\Debug\net9.0-windows\client_bun.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\MPP\Laborator\Agentie_turism_csharp\client_bun\obj\Debug\net9.0-windows\client_bun.sourcelink.json
